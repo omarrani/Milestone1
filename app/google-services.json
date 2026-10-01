@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "513345839902",
+    "project_id": "milestone1-signaling-a879d",
+    "storage_bucket": "milestone1-signaling-a879d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:513345839902:android:13c7c3b35ade450694df0f",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDaKaRxBP6YUxThysPYYqkUW_5HMN1juc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
